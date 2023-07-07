@@ -2,7 +2,7 @@
 Here is the R code and associated data files for the manuscript, <i>Sphingid caterpillars contrast markings do not function as distractive marks against predators 
 </i>, that has been accepted for publication by Ecology and Evolution (July 2023).
 
-There's a total of 13 data files and 4 R code files included in this repository.
+There's a total of 12 data files and 4 R code files included in this repository.
 
 <b>Data files</b>
 <br>
