@@ -1,0 +1,37 @@
+Site,Month,Vert,n,Attacks,Attack Rates
+BH,Late July,Invertebrate,42,7,0.166666667
+BH,Late July,Vertebrate,42,5,0.119047619
+BH,Early August,Invertebrate,54,11,0.203703704
+BH,Early August,Vertebrate,54,3,0.055555556
+BH,Late August,Invertebrate,56,19,0.339285714
+BH,Late August,Vertebrate,56,6,0.107142857
+BH,Early September,Invertebrate,55,24,0.436363636
+BH,Early September,Vertebrate,55,5,0.090909091
+BH,Late September,Invertebrate,56,24,0.428571429
+BH,Late September,Vertebrate,56,8,0.142857143
+BH,Mid-October,Invertebrate,56,15,0.267857143
+BH,Mid-October,Vertebrate,56,4,0.071428571
+BP,Late July,Invertebrate,44,4,0.090909091
+BP,Late July,Vertebrate,44,9,0.204545455
+BP,Early August,Invertebrate,56,9,0.160714286
+BP,Early August,Vertebrate,56,21,0.375
+BP,Late August,Invertebrate,56,26,0.464285714
+BP,Late August,Vertebrate,56,11,0.196428571
+BP,Early September,Invertebrate,56,23,0.410714286
+BP,Early September,Vertebrate,56,3,0.053571429
+BP,Late September,Invertebrate,56,16,0.285714286
+BP,Late September,Vertebrate,56,16,0.285714286
+BP,Mid-October,Invertebrate,55,16,0.290909091
+BP,Mid-October,Vertebrate,55,14,0.254545455
+GB,Late July,Invertebrate,44,4,0.090909091
+GB,Late July,Vertebrate,44,2,0.045454545
+GB,Early August,Invertebrate,56,19,0.339285714
+GB,Early August,Vertebrate,56,6,0.107142857
+GB,Late August,Invertebrate,55,25,0.454545455
+GB,Late August,Vertebrate,55,3,0.054545455
+GB,Early September,Invertebrate,55,21,0.381818182
+GB,Early September,Vertebrate,55,4,0.072727273
+GB,Late September,Invertebrate,56,9,0.160714286
+GB,Late September,Vertebrate,56,12,0.214285714
+GB,Mid-October,Invertebrate,56,10,0.178571429
+GB,Mid-October,Vertebrate,56,4,0.071428571

@@ -1,0 +1,145 @@
+﻿Site,Month,Color,Pattern,Predator,Attack_rate,Treatment
+BH,Late July,Green,Pattern,Vertebrate,0,Green Pattern
+BH,Late July,Green,Solid,Vertebrate,0.071428571,Green Solid
+BH,Late July,Red,Pattern,Vertebrate,0.153846154,Red Pattern
+BH,Late July,Red,Solid,Vertebrate,0.142857143,Red Solid
+BH,Early August,Green,Pattern,Vertebrate,0.153846154,Green Pattern
+BH,Early August,Green,Solid,Vertebrate,0,Green Solid
+BH,Early August,Red,Pattern,Vertebrate,0,Red Pattern
+BH,Early August,Red,Solid,Vertebrate,0.071428571,Red Solid
+BH,Late August,Green,Pattern,Vertebrate,0,Green Pattern
+BH,Late August,Green,Solid,Vertebrate,0.214285714,Green Solid
+BH,Late August,Red,Pattern,Vertebrate,0.142857143,Red Pattern
+BH,Late August,Red,Solid,Vertebrate,0.071428571,Red Solid
+BH,Early September,Green,Pattern,Vertebrate,0.153846154,Green Pattern
+BH,Early September,Green,Solid,Vertebrate,0,Green Solid
+BH,Early September,Red,Pattern,Vertebrate,0.142857143,Red Pattern
+BH,Early September,Red,Solid,Vertebrate,0.071428571,Red Solid
+BH,Late September,Green,Pattern,Vertebrate,0.214285714,Green Pattern
+BH,Late September,Green,Solid,Vertebrate,0,Green Solid
+BH,Late September,Red,Pattern,Vertebrate,0.285714286,Red Pattern
+BH,Late September,Red,Solid,Vertebrate,0.071428571,Red Solid
+BH,Mid-October,Green,Pattern,Vertebrate,0.071428571,Green Pattern
+BH,Mid-October,Green,Solid,Vertebrate,0,Green Solid
+BH,Mid-October,Red,Pattern,Vertebrate,0.142857143,Red Pattern
+BH,Mid-October,Red,Solid,Vertebrate,0.071428571,Red Solid
+BP,Late July,Green,Pattern,Vertebrate,0,Green Pattern
+BP,Late July,Green,Solid,Vertebrate,0.071428571,Green Solid
+BP,Late July,Red,Pattern,Vertebrate,0.230769231,Red Pattern
+BP,Late July,Red,Solid,Vertebrate,0.357142857,Red Solid
+BP,Early August,Green,Pattern,Vertebrate,0.5,Green Pattern
+BP,Early August,Green,Solid,Vertebrate,0.142857143,Green Solid
+BP,Early August,Red,Pattern,Vertebrate,0.5,Red Pattern
+BP,Early August,Red,Solid,Vertebrate,0.357142857,Red Solid
+BP,Late August,Green,Pattern,Vertebrate,0.071428571,Green Pattern
+BP,Late August,Green,Solid,Vertebrate,0.071428571,Green Solid
+BP,Late August,Red,Pattern,Vertebrate,0.357142857,Red Pattern
+BP,Late August,Red,Solid,Vertebrate,0.285714286,Red Solid
+BP,Early September,Green,Pattern,Vertebrate,0,Green Pattern
+BP,Early September,Green,Solid,Vertebrate,0.071428571,Green Solid
+BP,Early September,Red,Pattern,Vertebrate,0.071428571,Red Pattern
+BP,Early September,Red,Solid,Vertebrate,0.071428571,Red Solid
+BP,Late September,Green,Pattern,Vertebrate,0.285714286,Green Pattern
+BP,Late September,Green,Solid,Vertebrate,0.214285714,Green Solid
+BP,Late September,Red,Pattern,Vertebrate,0.357142857,Red Pattern
+BP,Late September,Red,Solid,Vertebrate,0.285714286,Red Solid
+BP,Mid-October,Green,Pattern,Vertebrate,0.142857143,Green Pattern
+BP,Mid-October,Green,Solid,Vertebrate,0.214285714,Green Solid
+BP,Mid-October,Red,Pattern,Vertebrate,0.384615385,Red Pattern
+BP,Mid-October,Red,Solid,Vertebrate,0.285714286,Red Solid
+GB,Late July,Green,Pattern,Vertebrate,0,Green Pattern
+GB,Late July,Green,Solid,Vertebrate,0,Green Solid
+GB,Late July,Red,Pattern,Vertebrate,0.071428571,Red Pattern
+GB,Late July,Red,Solid,Vertebrate,0.076923077,Red Solid
+GB,Early August,Green,Pattern,Vertebrate,0,Green Pattern
+GB,Early August,Green,Solid,Vertebrate,0.071428571,Green Solid
+GB,Early August,Red,Pattern,Vertebrate,0.214285714,Red Pattern
+GB,Early August,Red,Solid,Vertebrate,0.142857143,Red Solid
+GB,Late August,Green,Pattern,Vertebrate,0.142857143,Green Pattern
+GB,Late August,Green,Solid,Vertebrate,0,Green Solid
+GB,Late August,Red,Pattern,Vertebrate,0.071428571,Red Pattern
+GB,Late August,Red,Solid,Vertebrate,0,Red Solid
+GB,Early September,Green,Pattern,Vertebrate,0.071428571,Green Pattern
+GB,Early September,Green,Solid,Vertebrate,0.142857143,Green Solid
+GB,Early September,Red,Pattern,Vertebrate,0.071428571,Red Pattern
+GB,Early September,Red,Solid,Vertebrate,0,Red Solid
+GB,Late September,Green,Pattern,Vertebrate,0.214285714,Green Pattern
+GB,Late September,Green,Solid,Vertebrate,0.214285714,Green Solid
+GB,Late September,Red,Pattern,Vertebrate,0.357142857,Red Pattern
+GB,Late September,Red,Solid,Vertebrate,0.071428571,Red Solid
+GB,Mid-October,Green,Pattern,Vertebrate,0,Green Pattern
+GB,Mid-October,Green,Solid,Vertebrate,0,Green Solid
+GB,Mid-October,Red,Pattern,Vertebrate,0.214285714,Red Pattern
+GB,Mid-October,Red,Solid,Vertebrate,0.071428571,Red Solid
+BH,Late July,Green,Pattern,Arthropods,0,Green Pattern
+BH,Late July,Green,Solid,Arthropods,0.285714286,Green Solid
+BH,Late July,Red,Pattern,Arthropods,0,Red Pattern
+BH,Late July,Red,Solid,Arthropods,0.214285714,Red Solid
+BH,Early August,Green,Pattern,Arthropods,0.384615385,Green Pattern
+BH,Early August,Green,Solid,Arthropods,0.076923077,Green Solid
+BH,Early August,Red,Pattern,Arthropods,0.142857143,Red Pattern
+BH,Early August,Red,Solid,Arthropods,0.214285714,Red Solid
+BH,Late August,Green,Pattern,Arthropods,0.142857143,Green Pattern
+BH,Late August,Green,Solid,Arthropods,0.428571429,Green Solid
+BH,Late August,Red,Pattern,Arthropods,0.5,Red Pattern
+BH,Late August,Red,Solid,Arthropods,0.285714286,Red Solid
+BH,Early September,Green,Pattern,Arthropods,0.384615385,Green Pattern
+BH,Early September,Green,Solid,Arthropods,0.571428571,Green Solid
+BH,Early September,Red,Pattern,Arthropods,0.285714286,Red Pattern
+BH,Early September,Red,Solid,Arthropods,0.5,Red Solid
+BH,Late September,Green,Pattern,Arthropods,0.642857143,Green Pattern
+BH,Late September,Green,Solid,Arthropods,0.428571429,Green Solid
+BH,Late September,Red,Pattern,Arthropods,0.071428571,Red Pattern
+BH,Late September,Red,Solid,Arthropods,0.571428571,Red Solid
+BH,Mid-October,Green,Pattern,Arthropods,0.214285714,Green Pattern
+BH,Mid-October,Green,Solid,Arthropods,0.357142857,Green Solid
+BH,Mid-October,Red,Pattern,Arthropods,0.214285714,Red Pattern
+BH,Mid-October,Red,Solid,Arthropods,0.285714286,Red Solid
+BP,Late July,Green,Pattern,Arthropods,0,Green Pattern
+BP,Late July,Green,Solid,Arthropods,0.071428571,Green Solid
+BP,Late July,Red,Pattern,Arthropods,0.230769231,Red Pattern
+BP,Late July,Red,Solid,Arthropods,0,Red Solid
+BP,Early August,Green,Pattern,Arthropods,0.071428571,Green Pattern
+BP,Early August,Green,Solid,Arthropods,0.357142857,Green Solid
+BP,Early August,Red,Pattern,Arthropods,0.142857143,Red Pattern
+BP,Early August,Red,Solid,Arthropods,0.071428571,Red Solid
+BP,Late August,Green,Pattern,Arthropods,0.428571429,Green Pattern
+BP,Late August,Green,Solid,Arthropods,0.714285714,Green Solid
+BP,Late August,Red,Pattern,Arthropods,0.285714286,Red Pattern
+BP,Late August,Red,Solid,Arthropods,0.428571429,Red Solid
+BP,Early September,Green,Pattern,Arthropods,0.428571429,Green Pattern
+BP,Early September,Green,Solid,Arthropods,0.428571429,Green Solid
+BP,Early September,Red,Pattern,Arthropods,0.428571429,Red Pattern
+BP,Early September,Red,Solid,Arthropods,0.357142857,Red Solid
+BP,Late September,Green,Pattern,Arthropods,0.571428571,Green Pattern
+BP,Late September,Green,Solid,Arthropods,0.357142857,Green Solid
+BP,Late September,Red,Pattern,Arthropods,0.071428571,Red Pattern
+BP,Late September,Red,Solid,Arthropods,0.142857143,Red Solid
+BP,Mid-October,Green,Pattern,Arthropods,0.214285714,Green Pattern
+BP,Mid-October,Green,Solid,Arthropods,0.285714286,Green Solid
+BP,Mid-October,Red,Pattern,Arthropods,0.307692308,Red Pattern
+BP,Mid-October,Red,Solid,Arthropods,0.357142857,Red Solid
+GB,Late July,Green,Pattern,Arthropods,0,Green Pattern
+GB,Late July,Green,Solid,Arthropods,0.153846154,Green Solid
+GB,Late July,Red,Pattern,Arthropods,0.071428571,Red Pattern
+GB,Late July,Red,Solid,Arthropods,0.076923077,Red Solid
+GB,Early August,Green,Pattern,Arthropods,0.357142857,Green Pattern
+GB,Early August,Green,Solid,Arthropods,0.428571429,Green Solid
+GB,Early August,Red,Pattern,Arthropods,0.214285714,Red Pattern
+GB,Early August,Red,Solid,Arthropods,0.357142857,Red Solid
+GB,Late August,Green,Pattern,Arthropods,0.428571429,Green Pattern
+GB,Late August,Green,Solid,Arthropods,0.538461538,Green Solid
+GB,Late August,Red,Pattern,Arthropods,0.357142857,Red Pattern
+GB,Late August,Red,Solid,Arthropods,0.5,Red Solid
+GB,Early September,Green,Pattern,Arthropods,0.142857143,Green Pattern
+GB,Early September,Green,Solid,Arthropods,0.642857143,Green Solid
+GB,Early September,Red,Pattern,Arthropods,0.428571429,Red Pattern
+GB,Early September,Red,Solid,Arthropods,0.307692308,Red Solid
+GB,Late September,Green,Pattern,Arthropods,0.142857143,Green Pattern
+GB,Late September,Green,Solid,Arthropods,0.071428571,Green Solid
+GB,Late September,Red,Pattern,Arthropods,0.142857143,Red Pattern
+GB,Late September,Red,Solid,Arthropods,0.285714286,Red Solid
+GB,Mid-October,Green,Pattern,Arthropods,0.285714286,Green Pattern
+GB,Mid-October,Green,Solid,Arthropods,0.214285714,Green Solid
+GB,Mid-October,Red,Pattern,Arthropods,0,Red Pattern
+GB,Mid-October,Red,Solid,Arthropods,0.214285714,Red Solid
